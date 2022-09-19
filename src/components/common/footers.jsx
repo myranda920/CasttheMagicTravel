@@ -202,7 +202,7 @@ class Footers extends Component {
         return (
             <>
                 {/* ===============  Newsletter area start =============== */}
-                <div className="newsletter-area pt-120">
+                {/* <div className="newsletter-area pt-120">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12 col-md-12">
@@ -219,7 +219,7 @@ class Footers extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/* ===============  Newsletter area end =============== */}
 
                 {/* ==============  Footer area start================= */}
@@ -231,7 +231,7 @@ class Footers extends Component {
                                     <div className="footer-logo">
                                         <img src={secondLogo} alt="" className="img-fluid" />
                                     </div>
-                                    <p>More fun text about the business :) </p>
+                                    <p>Stress-Free Travel is Magic</p>
                                     <div className="footer-social-icons">
                                         <h5>Follow Us:</h5>
                                         <ul>
@@ -241,12 +241,12 @@ class Footers extends Component {
                                             <li>
                                                 <Link to={"#"}><i className="bx bxl-instagram" /></Link>
                                             </li>
-                                            <li>
+                                            {/* <li>
                                                 <Link to={"#"}><i className="bx bxl-twitter" /></Link>
                                             </li>
                                             <li>
                                                 <Link to={"#"}><i className="bx bxl-dribbble" /></Link>
-                                            </li>
+                                            </li> */}
                                         </ul>
                                     </div>
                                 </div>
@@ -259,15 +259,15 @@ class Footers extends Component {
                                             <div className="contact-box">
                                                 <span><i className="bx bx-phone" /></span>
                                                 <div>
-                                                    <a href="tel:+01852-1265122">+01852-1265122</a>
-                                                    <a href="tel:+01852-1265122">+01852-1265122</a>
+                                                    <a href="tel:+01852-1265122">+7605442878</a>
+                                                    {/* <a href="tel:+01852-1265122">+01852-1265122</a> */}
                                                 </div>
                                             </div>
                                             <div className="contact-box">
                                                 <span><i className="bx bx-mail-send" /></span>
                                                 <div>
-                                                    <a href="mailto:info@example.com">info@example.com</a>
-                                                    <a href="mailto:support@example.com">support@example.com</a>
+                                                    <a href="mailto:info@example.com">castthemagictravel@gmail.com</a>
+                                                    {/* <a href="mailto:support@example.com">support@example.com</a> */}
                                                 </div>
                                             </div>
                                             {/* <div className="contact-box">
@@ -279,7 +279,7 @@ class Footers extends Component {
                                             </div> */}
                                         </div>
                                     </div>
-                                    <div className="col-lg-3 col-md-3 col-sm-5">
+                                    {/* <div className="col-lg-3 col-md-3 col-sm-5">
                                         <div className="footer-links">
                                             <h5 className="widget-title">support</h5>
                                             <div className="category-list">
@@ -302,8 +302,8 @@ class Footers extends Component {
                                                 </ul>
                                             </div>
                                         </div>
-                                    </div> 
-                                    <div className="col-lg-4 col-md-4">
+                                    </div>  */}
+                                    {/* <div className="col-lg-4 col-md-4">
                                         <div className="footer-links payment-links">
                                             <h5 className="widget-title">We Accepts:</h5>
                                             <div className="payment-cards">
@@ -314,14 +314,14 @@ class Footers extends Component {
                                                 <img src={paymentCard5Img} alt="" className="img-fluid" />
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="copyrigth-area">
-                                    <p>Copyright 2021 <Link to={`#`}>Cast the Magic Travel</Link> | Design By <Link to={`#`}>MPUIDesign</Link></p>
+                                    <p>Copyright 2021 <Link to={`#`}>Cast the Magic Travel</Link></p>
                                 </div>
                             </div>
                         </div>

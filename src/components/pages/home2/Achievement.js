@@ -22,8 +22,8 @@ class Achievement extends Component {
                    <div className="row">
                        <div className="col-lg-12 col-md-12 col-sm-12">
                            <div className="section-head pb-40">
-                               <h5>Why Tourx?</h5>
-                               <h2>Why you are travel with tourx</h2>
+                               {/* <h5>Why Tourx?</h5> */}
+                               <h2>Disneyland and Walt Disney World Packages Including:</h2>
                            </div>
                        </div>
                    </div>
@@ -34,8 +34,7 @@ class Achievement extends Component {
                                    <img src={achievement1Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
-                                   <h5>500+ Our worldwide
-                                       guide</h5>
+                                   <h5>Resort Accomodations</h5>
                                    <div className="achieve-icon">
                                        <i className="flaticon-guide" />
                                    </div>
@@ -48,7 +47,7 @@ class Achievement extends Component {
                                    <img src={achievement2Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
-                                   <h5>100% trusted travel agency</h5>
+                                   <h5>Park Tickets</h5>
                                    <div className="achieve-icon">
                                        <i className="flaticon-trust" />
                                    </div>
@@ -61,7 +60,7 @@ class Achievement extends Component {
                                    <img src={achievement3Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
-                                   <h5>5+ year of travel experience</h5>
+                                   <h5>Theme Park Reservations</h5>
                                    <div className="achieve-icon">
                                        <i className="flaticon-experience" />
                                    </div>
@@ -74,7 +73,59 @@ class Achievement extends Component {
                                    <img src={achievement4Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
-                                   <h5>85% of our traveller happy</h5>
+                                   <h5>Transportation</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-traveller" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Dining</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-traveller" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Celebrations</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-traveller" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Magic Add-Ons</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-traveller" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Unlimited Email Support</h5>
                                    <div className="achieve-icon">
                                        <i className="flaticon-traveller" />
                                    </div>

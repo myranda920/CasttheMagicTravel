@@ -25,17 +25,17 @@ class Headers extends Component {
                                 <ul>
                                     <li>
                                         <i className="bx bxs-phone" />
-                                        <a href="tel:+17632275032">+1 763-227-5032</a>
+                                        <a href="tel:+17605442878">+1 760.544.2878</a>
                                     </li>
 
                                     <li>
                                         <i className="bx bxs-envelope" />
-                                        <a href="mailto:info@example.com">info@example.com</a>
+                                        <a href="mailto:castthemagictravel@gmail.com">castthemagictravel@gmail.com</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-6">
+                        {/* <div className="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-6">
                             <div className="topbar-social">
                                 <ul>
                                     <li>
@@ -52,7 +52,7 @@ class Headers extends Component {
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> */}
                         <div className="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-6">
                             <div className="custom-select languege-select">
                                 <select>

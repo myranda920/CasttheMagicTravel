@@ -217,7 +217,7 @@ input:focus {
   cursor: pointer;
   line-height: 20px;
   display: inline-block;
-  color: #304F47;
+  color: #934ae8;
 }
 
 [type="radio"]:checked + label:before,
@@ -238,7 +238,7 @@ input:focus {
   content: '';
   width: 10px;
   height: 10px;
-  background: #304F47;
+  background: #934ae8;
   position: absolute;
   top: 5px;
   left: 3px;
@@ -265,7 +265,7 @@ input[type=submit] {
   line-height: 28px;
   letter-spacing: 0.75px;
   color: #FFFFFF;
-  background: #FF7F47;
+  background: #4781ff;
   padding: 14px 22px;
   text-transform: capitalize;
   -webkit-transition: all .3s;
@@ -274,7 +274,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background: #304F47;
+  background: #934ae8;
 }
 
 input[type=submit]:focus {
@@ -313,14 +313,14 @@ select:focus {
 }
 
 .form-select.package-options {
-  border: 2px solid #304F47;
+  border: 2px solid #934ae8;
   border-radius: 5px;
   width: 222px;
   height: 40px;
   font-weight: 700;
   font-size: 15px;
   line-height: 19px;
-  color: #262339;
+  color: #140c6d;
   float: right;
 }
 
@@ -328,14 +328,14 @@ select:focus {
   font-weight: 700;
   font-size: 15px;
   line-height: 19px;
-  color: #262339;
+  color: #140c6d;
   text-transform: capitalize;
 }
 
 .form-select.package-options:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
-  border: 2px solid #304F47;
+  border: 2px solid #934ae8;
 }
 
 .input-group.search-box input {
@@ -353,7 +353,7 @@ select:focus {
 .input-group.search-box button {
   height: 47px;
   border: none;
-  background: #304F47;
+  background: #934ae8;
   width: 55px;
   border-radius: 0 10px 10px 0;
 }
@@ -388,7 +388,7 @@ table tfoot tr th {
 a.btn-common-sm {
   display: inline-block;
   padding: 11px 20px 11px 30px;
-  background: #304F47;
+  background: #934ae8;
   border-radius: 5px;
   font-weight: 600;
   font-size: 14px;
@@ -440,7 +440,7 @@ a.btn-common::before {
   width: 100%;
   position: absolute;
   content: "";
-  background: #FF7F47;
+  background: #140c6d;
   top: 0;
   left: 0;
   border-radius: 5px;
@@ -504,7 +504,7 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
-  color: #FF7F47;
+  color: #140c6d;
 }
 
 .section-head h2 {
