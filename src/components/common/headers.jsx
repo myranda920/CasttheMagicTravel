@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import {Link,NavLink}               from "react-router-dom";
 
 //Import Image
-import logoMain             from "../../assets/images/logo.png"
+import logoMain             from "../../assets/images/MockLogo1.png"
 import secondLogo           from "../../assets/images/logo-2.png"
 
 class Headers extends Component {
