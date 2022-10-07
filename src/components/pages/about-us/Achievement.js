@@ -6,15 +6,15 @@ import achievement3Image from "../../../assets/images/achievement/ThemeParkReser
 import achievement4Image from "../../../assets/images/achievement/Transportation.png";
 import achievement5Image from "../../../assets/images/achievement/Dining.png";
 import achievement6Image from "../../../assets/images/achievement/Celebrations.png";
-import achievement7Image from "../../../assets/images/achievement/MagicAdd-Ons.webp";
+import achievement7Image from "../../../assets/images/achievement/MagicAdd-Ons.png";
 import achievement8Image from "../../../assets/images/achievement/UnlimitedEmailSupport.png";
 import achievement9Image from "../../../assets/images/achievement/CruiseBookings.png";
 import achievement10Image from "../../../assets/images/achievement/Cabin.png";
 import achievement11Image from "../../../assets/images/achievement/PackageAdd-OnsCruise.png";
-import achievement12Image from "../../../assets/images/achievement/DestinationsCruise.webp";
+import achievement12Image from "../../../assets/images/achievement/DestinationsCruise.png";
 import achievement13Image from "../../../assets/images/achievement/Itineraries.png";
 import achievement14Image from "../../../assets/images/achievement/CelebrationsCruise.png";
-import achievement15Image from "../../../assets/images/achievement/DiningCruise.webp";
+import achievement15Image from "../../../assets/images/achievement/DiningCruise.png";
 
 class Achievement extends Component {
 
