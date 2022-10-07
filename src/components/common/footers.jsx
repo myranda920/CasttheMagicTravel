@@ -239,7 +239,7 @@ class Footers extends Component {
                                                 <Link to={"#"}><i className="bx bxl-facebook" /></Link>
                                             </li>
                                             <li>
-                                                <Link to={"#"}><i className="bx bxl-instagram" /></Link>
+                                                <Link to={"https://www.instagram.com/castthemagictravel/?igshid=NmNmNjAwNzg%3D"}><i className="bx bxl-instagram" /></Link>
                                             </li>
                                             {/* <li>
                                                 <Link to={"#"}><i className="bx bxl-twitter" /></Link>
@@ -321,7 +321,7 @@ class Footers extends Component {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="copyrigth-area">
-                                    <p>Copyright 2021 <Link to={`#`}>Cast the Magic Travel</Link></p>
+                                    <p>Copyright 2022 <Link to={`#`}>Cast the Magic Travel</Link></p>
                                 </div>
                             </div>
                         </div>
