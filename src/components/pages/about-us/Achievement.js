@@ -1,9 +1,20 @@
 import React, { Component } from "react";
 
-import achievement1Image from "../../../assets/images/achievement/e-1.png";
-import achievement2Image from "../../../assets/images/achievement/e-2.png";
-import achievement3Image from "../../../assets/images/achievement/e-3.png";
-import achievement4Image from "../../../assets/images/achievement/e-4.png";
+import achievement1Image from "../../../assets/images/achievement/ResortAccomodationImage.jpeg";
+import achievement2Image from "../../../assets/images/achievement/ParkTickets.jpeg";
+import achievement3Image from "../../../assets/images/achievement/ThemeParkReservations.jpeg";
+import achievement4Image from "../../../assets/images/achievement/Transportation.jpeg";
+import achievement5Image from "../../../assets/images/achievement/Dining.jpeg";
+import achievement6Image from "../../../assets/images/achievement/Celebrations.jpeg";
+import achievement7Image from "../../../assets/images/achievement/MagicAdd-Ons.webp";
+import achievement8Image from "../../../assets/images/achievement/UnlimitedEmailSupport.jpeg";
+import achievement9Image from "../../../assets/images/achievement/CruiseBookings.jpeg";
+import achievement10Image from "../../../assets/images/achievement/Cabin.jpeg";
+import achievement11Image from "../../../assets/images/achievement/PackageAdd-OnsCruise.png";
+import achievement12Image from "../../../assets/images/achievement/DestinationsCruise.webp";
+import achievement13Image from "../../../assets/images/achievement/Itineraries.jpeg";
+import achievement14Image from "../../../assets/images/achievement/CelebrationsCruise.jpeg";
+import achievement15Image from "../../../assets/images/achievement/DiningCruise.webp";
 
 class Achievement extends Component {
 
@@ -83,7 +94,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement5Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Dining</h5>
@@ -96,7 +107,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement6Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Celebrations</h5>
@@ -109,7 +120,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement7Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Magic Add-Ons</h5>
@@ -122,7 +133,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement8Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Unlimited Email Support</h5>
@@ -150,7 +161,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement1Image} alt="" className="img-fluid" />
+                                   <img src={achievement9Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Cruise Bookings</h5>
@@ -163,7 +174,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="200ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement2Image} alt="" className="img-fluid" />
+                                   <img src={achievement10Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Cabin</h5>
@@ -176,10 +187,10 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="400ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement3Image} alt="" className="img-fluid" />
+                                   <img src={achievement11Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
-                                   <h5>Help with Package Add-Ons</h5>
+                                   <h5>Package Add-Ons</h5>
                                    <div className="achieve-icon">
                                        <i className="flaticon-experience" />
                                    </div>
@@ -189,7 +200,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement12Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Destinations</h5>
@@ -202,7 +213,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement13Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Itineraries</h5>
@@ -215,7 +226,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement14Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Celebrations</h5>
@@ -228,7 +239,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement15Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Dining</h5>
@@ -241,7 +252,7 @@ class Achievement extends Component {
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="600ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
-                                   <img src={achievement4Image} alt="" className="img-fluid" />
+                                   <img src={achievement8Image} alt="" className="img-fluid" />
                                </div>
                                <div className="achieve-info">
                                    <h5>Unlimited Email Support</h5>

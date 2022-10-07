@@ -53,7 +53,7 @@ class Headers extends Component {
                                 </ul>
                             </div>
                         </div> */}
-                        <div className="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-6">
+                        {/* <div className="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-6">
                             <div className="custom-select languege-select">
                                 <select>
                                     <option value={0}>ENG</option>
@@ -62,7 +62,7 @@ class Headers extends Component {
                                     <option value={3}>CHI</option>
                                 </select>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
