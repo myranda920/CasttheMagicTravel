@@ -88,7 +88,7 @@ class Headers extends Component {
                                             <i className="flaticon-user" />
                                             <div className="account-dropdown">
                                                 <ul>
-                                                    <li className="account-el">
+                                                    {/* <li className="account-el">
                                                         <i className="bx bx-user-pin" />
                                                         <Link to={"#"}>Sign in</Link>
                                                     </li>
@@ -103,7 +103,7 @@ class Headers extends Component {
                                                     <li className="account-el">
                                                         <i className="bx bx-log-in-circle" />
                                                         <Link to={"#"}>Log out</Link>
-                                                    </li>
+                                                    </li> */}
                                                 </ul>
                                             </div>
                                         </div>
@@ -119,7 +119,7 @@ class Headers extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            {/* <div className="col-lg-10 col-md-10 col-sm-10 col-xs-10">
                                 <nav className="main-nav">
                                     <div className="navber-logo-sm">
                                         <img src={secondLogo} alt="" className="img-fluid" />
@@ -243,7 +243,7 @@ class Headers extends Component {
                                         </ul>
                                     </div>
                                 </nav>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
 

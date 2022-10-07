@@ -13,11 +13,11 @@ class BreadCrumb extends Component {
                            <div className="breadcrumb-wrap">
                                <h2>Cast the Magic Travel</h2>
                                <ul className="breadcrumb-links">
-                                   <li>
+                                   {/* <li>
                                        <Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
                                        <i className="bx bx-chevron-right" />
                                    </li>
-                                   <li>About Us</li>
+                                   <li>About Us</li> */}
                                </ul>
                            </div>
                        </div>
