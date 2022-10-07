@@ -84,8 +84,7 @@ class MainBanner extends Component {
                     <div className="slider-item slider-item-3">
                         <div className="container">
                             <div className="slider-content wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms">
-                                <h2>Amazing Tour In
-                                    madagascar </h2>
+                                <h2>Book Your Next Vacation </h2>
                                 {/* <h5>7 Days, 8 Night Tour</h5> */}
                                 {/* <div className="banner-btn">
                                     <Link to={`${process.env.PUBLIC_URL}/package`} className="btn-common">Book Now</Link>
