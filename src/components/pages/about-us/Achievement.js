@@ -1,19 +1,19 @@
 import React, { Component } from "react";
 
-import achievement1Image from "../../../assets/images/achievement/ResortAccomodationImage.jpeg";
-import achievement2Image from "../../../assets/images/achievement/ParkTickets.jpeg";
-import achievement3Image from "../../../assets/images/achievement/ThemeParkReservations.jpeg";
-import achievement4Image from "../../../assets/images/achievement/Transportation.jpeg";
-import achievement5Image from "../../../assets/images/achievement/Dining.jpeg";
-import achievement6Image from "../../../assets/images/achievement/Celebrations.jpeg";
+import achievement1Image from "../../../assets/images/achievement/ResortAccomodationImage.png";
+import achievement2Image from "../../../assets/images/achievement/ParkTickets.png";
+import achievement3Image from "../../../assets/images/achievement/ThemeParkReservations.png";
+import achievement4Image from "../../../assets/images/achievement/Transportation.png";
+import achievement5Image from "../../../assets/images/achievement/Dining.png";
+import achievement6Image from "../../../assets/images/achievement/Celebrations.png";
 import achievement7Image from "../../../assets/images/achievement/MagicAdd-Ons.webp";
-import achievement8Image from "../../../assets/images/achievement/UnlimitedEmailSupport.jpeg";
-import achievement9Image from "../../../assets/images/achievement/CruiseBookings.jpeg";
-import achievement10Image from "../../../assets/images/achievement/Cabin.jpeg";
+import achievement8Image from "../../../assets/images/achievement/UnlimitedEmailSupport.png";
+import achievement9Image from "../../../assets/images/achievement/CruiseBookings.png";
+import achievement10Image from "../../../assets/images/achievement/Cabin.png";
 import achievement11Image from "../../../assets/images/achievement/PackageAdd-OnsCruise.png";
 import achievement12Image from "../../../assets/images/achievement/DestinationsCruise.webp";
-import achievement13Image from "../../../assets/images/achievement/Itineraries.jpeg";
-import achievement14Image from "../../../assets/images/achievement/CelebrationsCruise.jpeg";
+import achievement13Image from "../../../assets/images/achievement/Itineraries.png";
+import achievement14Image from "../../../assets/images/achievement/CelebrationsCruise.png";
 import achievement15Image from "../../../assets/images/achievement/DiningCruise.webp";
 
 class Achievement extends Component {
