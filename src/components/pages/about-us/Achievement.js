@@ -15,6 +15,10 @@ import achievement12Image from "../../../assets/images/achievement/DestinationsC
 import achievement13Image from "../../../assets/images/achievement/Itineraries.png";
 import achievement14Image from "../../../assets/images/achievement/CelebrationsCruise.png";
 import achievement15Image from "../../../assets/images/achievement/DiningCruise.png";
+import achievement16Image from "../../../assets/images/achievement/RoyalCaribbean.png";
+import achievement17Image from "../../../assets/images/achievement/Norwegian.png";
+import achievement18Image from "../../../assets/images/achievement/DisneyCruiseLine.png";
+import achievement19Image from "../../../assets/images/achievement/CarnivalCruise.png";
 
 class Achievement extends Component {
 
@@ -158,6 +162,60 @@ class Achievement extends Component {
                        </div>
                    </div>
                    <div className="row">
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement16Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Royal Caribbean</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-guide" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       {/* partnerships */}
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement17Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Norwegian Cruise Line</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-guide" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement18Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Disney Cruise Line</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-guide" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                       <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
+                           <div className="achievement-card-2">
+                               <div className="achieve-img">
+                                   <img src={achievement19Image} alt="" className="img-fluid" />
+                               </div>
+                               <div className="achieve-info">
+                                   <h5>Carnival Cruise Line</h5>
+                                   <div className="achieve-icon">
+                                       <i className="flaticon-guide" />
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                          {/* end partnerships */}
                        <div className="col-lg-3 col-md-4 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
                            <div className="achievement-card-2">
                                <div className="achieve-img">
