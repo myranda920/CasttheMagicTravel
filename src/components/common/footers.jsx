@@ -236,10 +236,10 @@ class Footers extends Component {
                                         <h5>Follow Us:</h5>
                                         <ul>
                                             <li>
-                                                <Link to={"#"}><i className="bx bxl-facebook" /></Link>
+                                                <Link to={{ pathname:"https://m.facebook.com/CTMHolly" }} target="_blank"><i className="bx bxl-facebook" /></Link>
                                             </li>
                                             <li>
-                                                <Link to={"https://www.instagram.com/castthemagictravel/?igshid=NmNmNjAwNzg%3D"}><i className="bx bxl-instagram" /></Link>
+                                                <Link to={{ pathname:"https://www.instagram.com/castthemagictravel/?igshid=NmNmNjAwNzg%3D" }} target="_blank"><i className="bx bxl-instagram" /></Link>
                                             </li>
                                             {/* <li>
                                                 <Link to={"#"}><i className="bx bxl-twitter" /></Link>
