@@ -279,33 +279,24 @@ class Footers extends Component {
                                             </div> */}
                                         </div>
                                     </div>
-                                    {/* <div className="col-lg-3 col-md-3 col-sm-5">
+                                    <div className="col-lg-3 col-md-3 col-sm-5">
                                         <div className="footer-links">
-                                            <h5 className="widget-title">support</h5>
+                                            <h5 className="widget-title">Forms:</h5>
                                             <div className="category-list">
                                                 <ul>
-                                                    <li>
-                                                        <Link to={`${process.env.PUBLIC_URL}/contact`} onClick={this.scrollTop} >Contact us</Link>
-                                                    </li>
-                                                    <li>
-                                                        <Link to={`${process.env.PUBLIC_URL}/about-us`} onClick={this.scrollTop}>About us</Link>
-                                                    </li>
-                                                    <li>
-                                                        <Link to={`${process.env.PUBLIC_URL}/destination`} onClick={this.scrollTop} >Destinations</Link>
-                                                    </li>
-                                                    <li>
-                                                        <Link to={`${process.env.PUBLIC_URL}/blog`} onClick={this.scrollTop}>our Blogs</Link>
-                                                    </li>
-                                                    <li>
-                                                        <Link to={`${process.env.PUBLIC_URL}/package`} className="sub-item" onClick={this.scrollTop}>Package</Link>
-                                                    </li>
+                                                <li>
+                                                <Link to={{ pathname:"https://form.jotform.com/222835313367153" }} target="_blank">Disney Inquiry</Link>
+                                            </li>
+                                            <li>
+                                                <Link to={{ pathname:"https://form.jotform.com/222835756137159" }} target="_blank">Cruise Inquiry</Link>
+                                            </li>
                                                 </ul>
                                             </div>
                                         </div>
-                                    </div>  */}
+                                    </div> 
                                     {/* <div className="col-lg-4 col-md-4">
                                         <div className="footer-links payment-links">
-                                            <h5 className="widget-title">We Accepts:</h5>
+                                            <h5 className="widget-title">Forms:</h5>
                                             <div className="payment-cards">
                                                 <img src={paymentCard2Img} alt="" className="img-fluid" />
                                                 <img src={paymentCard1Img} alt="" className="img-fluid" />
