@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
 
 //Import Images
 import destinations1Img from "../../../assets/images/destination/main1.png"
-import destinations4Img from "../../../assets/images/destination/d1.jpeg"
+import destinations4Img from "../../../assets/images/destination/d1.png"
 import destinations5Img from "../../../assets/images/destination/ParkTickets copy.png"
 import destinations6Img from "../../../assets/images/destination/ThemeParkReservations copy.png"
 import destinations7Img from "../../../assets/images/destination/Transportation copy.png"
