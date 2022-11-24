@@ -14,10 +14,10 @@ class BreadCrumb extends Component {
                                <h2>Cast the Magic Travel</h2>
                                <ul className="breadcrumb-links">
                                    {/* <li>
-                                       <Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
+                                       <Link to={`${process.env.PUBLIC_URL}/`}>Blog</Link>
                                        <i className="bx bx-chevron-right" />
-                                   </li>
-                                   <li>About Us</li> */}
+                                   </li> */}
+                                   {/* <li>About Us</li> */}
                                </ul>
                            </div>
                        </div>
