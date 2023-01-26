@@ -193,6 +193,8 @@ class BlogDetails extends Component {
                                 </div> */}
                             </div>
                         </div>
+
+                        
                         <div className="col-lg-4">
                             <div className="blog-sidebar">
                                 {/* <div className="sidebar-searchbox">

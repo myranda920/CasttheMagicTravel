@@ -30,7 +30,7 @@ class BlogComponent extends Component {
                                 <h2>Blog</h2>
                                 <ul className="breadcrumb-links">
                                     <li>
-                                        <Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
+                                        <Link to={`${process.env.PUBLIC_URL}/home`}>Home</Link>
                                         <i className="bx bx-chevron-right" />
                                     </li>
                                     <li>Blog</li>

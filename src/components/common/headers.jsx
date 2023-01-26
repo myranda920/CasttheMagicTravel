@@ -162,22 +162,8 @@ class Headers extends Component {
                                             </ul>
                                         </li> */}
                                         <li className="has-child-menu">
-                                            <Link to={"#"}>Blog</Link>
-                                            <i className="fl flaticon-plus">+</i>
-                                            <ul className="sub-menu">
-                                                {/* <li>
-                                                    <NavLink activeClassName="active" to={`${process.env.PUBLIC_URL}/blog`} className="sub-item" onClick={this.scrollTop}>Blog page</NavLink>
-                                                </li>
-                                                <li>
-                                                    <NavLink activeClassName="active" to={`${process.env.PUBLIC_URL}/blog-sidebar`} className="sub-item" onClick={this.scrollTop}>Blog sidebar</NavLink>
-                                                </li>
-                                                <li>
-                                                    <NavLink activeClassName="active" to={`${process.env.PUBLIC_URL}/blog-standard`} className="sub-item" onClick={this.scrollTop}>Blog standard</NavLink>
-                                                </li> */}
-                                                <li>
-                                                    <NavLink activeClassName="active" to={`${process.env.PUBLIC_URL}/blog-details`} className="sub-item" onClick={this.scrollTop}>View Blog </NavLink>
-                                                </li>
-                                            </ul>
+                                            <Link to={`${process.env.PUBLIC_URL}/blog-standard`}>Blog</Link>
+                                            {/* <i className="fl flaticon-plus">+</i> */}
                                         </li>
                                         {/* <li className="has-child-menu">
                                             <Link to={"#"}>Pages</Link>

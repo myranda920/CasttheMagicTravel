@@ -28,7 +28,7 @@ import blog                             from "./components/pages/blog/BlogCompon
 import blogSidebar                      from "./components/pages/blog/BlogSidebar";
 import blogStandard                     from "./components/pages/blog/BlogStandard";
 import blogDetails                      from "./components/pages/blog/BlogDetails";
-
+import blogDetails1                     from "./components/pages/blog/BlogDetails1";
 
 //Initializations All Css
 import './index.css';
@@ -66,6 +66,7 @@ class Root extends React.Component{
                             <Route path={`${process.env.PUBLIC_URL}/blog-sidebar`} component={blogSidebar} />
                             <Route path={`${process.env.PUBLIC_URL}/blog-standard`} component={blogStandard} />
                             <Route path={`${process.env.PUBLIC_URL}/blog-details`} component={blogDetails} />
+                            <Route path={`${process.env.PUBLIC_URL}/blog-details1`} component={blogDetails1} />
                             <Route path={`${process.env.PUBLIC_URL}/contact`} component={contact} />
                         </Layout>
                     </Switch>
