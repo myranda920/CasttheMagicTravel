@@ -3,7 +3,7 @@ import {Link}               from "react-router-dom";
 import $ from "jquery";
 
 //Import Image
-import secondLogo           from "../../assets/images/MockLogo1.png"
+import secondLogo           from "../../assets/images/logo-footer.png"
 import paymentCard1Img      from "../../assets/images/payment/payment-card-1.png"
 import paymentCard2Img      from "../../assets/images/payment/payment-card-2.png"
 import paymentCard3Img      from "../../assets/images/payment/payment-card-3.png"

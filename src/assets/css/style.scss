@@ -42,10 +42,10 @@ Last update :
 ======================*/
 
 /*--- Color ---*/
-$primary-color : #4781ff;
-$secondary-color : #934ae8;
+$primary-color : black;
+$secondary-color : black;
 $tertiary-color : #ffffff;
-$text-color-one:  #140c6d;
+$text-color-one:  #dcb20a;
 $text-color-two : #737679;
 
 /*--- Font Family ---*/
@@ -1130,7 +1130,7 @@ header .header-area .main-nav {
   header .header-area .main-nav ul li a {
     display: block;
     color: $text-color-one;
-    font-size: 16px;
+    font-size: 25px;
     font-weight: 500;
     text-transform: capitalize;
     text-decoration: none;
@@ -2632,7 +2632,7 @@ border-radius: 0px 0px 3px 3px;
 
 .footer-area{
   color: rgba(255, 127, 71,1);
-  padding-top: 170px;
+  padding-top: 60px;
   background: $text-color-one;
 
   .footer-links{

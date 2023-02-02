@@ -1268,7 +1268,7 @@ header .header-area .main-nav .navbar-icons .searchbar-open, header .header-area
 
 header .header-area .main-nav .navbar-icons .searchbar-open i, header .header-area .main-nav .navbar-icons .user-dropdown-icon i, header .header-area .main-nav .navbar-icons-2 .searchbar-open i, header .header-area .main-nav .navbar-icons-2 .user-dropdown-icon i {
   color: #FF7F47;
-  font-size: 20px;
+  font-size: 25px;
   cursor: pointer;
 }
 
@@ -1306,14 +1306,14 @@ header .header-area-2.header-area.sticky .main-nav ul li a {
 header .header-area .main-nav ul li a {
   display: block;
   color: #262339;
-  font-size: 16px;
+  font-size: 30px;
   font-weight: 500;
   text-transform: capitalize;
   text-decoration: none;
   font-family: "Work Sans", sans-serif;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  padding: 35px 0;
+  padding: 16px 0;
   position: relative;
 }
 

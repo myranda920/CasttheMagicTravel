@@ -89,16 +89,16 @@ class AboutUs extends Component {
                            <OwlCarousel className="row owl-carousel destinations-1"  {...destinationsOptions}>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations4Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Resort</span>Accomodations</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Resort Accomodations</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Resort Accomodations</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -112,16 +112,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations5Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Park</span>Tickets</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Park Tickets</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Park Tickets</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -135,16 +135,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations6Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Theme</span>Park Reservations</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Park Reservations</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Park Reservations</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -158,16 +158,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations7Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Transportation</span></h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Transportation</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Transportation</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -181,16 +181,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations12Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Park</span>Tickets</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Dining</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Dining</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -204,16 +204,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations13Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Park</span>Tickets</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Celebrations</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Celebrations</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -227,16 +227,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations14Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Park</span>Tickets</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Magic Add-Ons</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Magic Add-Ons</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -250,16 +250,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations15Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>Park</span>Tickets</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Email Support</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Email Support</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -279,16 +279,16 @@ class AboutUs extends Component {
                            <OwlCarousel className="row owl-carousel destinations-2"  {...destinationsOptions}>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations16Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$145</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Royal Caribbean</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Royal Caribbean</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -303,16 +303,16 @@ class AboutUs extends Component {
 
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations17Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$240</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Norwegion Cruise Line</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Norwegion Cruise Line</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -327,16 +327,16 @@ class AboutUs extends Component {
 
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations9Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$300</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Disney Cruise Line</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Disney Cruise Line</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -351,16 +351,16 @@ class AboutUs extends Component {
 
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations10Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$120</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Carnival Cruise Line</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Carnival Cruise Line</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -396,16 +396,16 @@ class AboutUs extends Component {
                            <OwlCarousel className="row owl-carousel destinations-1"  {...destinationsOptions}>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations11Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$145</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Cruise Bookings</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Cruise Bookings</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -419,16 +419,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations8Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$240</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Cabin</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Cabin</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -442,16 +442,16 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations18Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
                                            {/* <h5><span>$300</span>/Per Person</h5> */}
                                        </div>
                                        <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Package Add-Ons</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Package Add-Ons</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -465,9 +465,9 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations19Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
@@ -475,7 +475,7 @@ class AboutUs extends Component {
                                        </div>
                                        <h3>
                                            <i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Destinations</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Destinations</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -489,9 +489,9 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations20Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
@@ -499,7 +499,7 @@ class AboutUs extends Component {
                                        </div>
                                        <h3>
                                            <i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Itineraries</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Itineraries</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -513,9 +513,9 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations21Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
@@ -523,7 +523,7 @@ class AboutUs extends Component {
                                        </div>
                                        <h3>
                                            <i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Celebrations</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Celebrations</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -537,9 +537,9 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations22Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
@@ -547,7 +547,7 @@ class AboutUs extends Component {
                                        </div>
                                        <h3>
                                            <i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Dining</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Dining</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />
@@ -561,9 +561,9 @@ class AboutUs extends Component {
                                </div>
                                <div className="package-card">
                                    <div className="package-thumb">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
+                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
                                            <img src={destinations15Img} alt="" className="img-fluid" />
-                                       </Link>
+                                       {/* </Link> */}
                                    </div>
                                    <div className="package-details">
                                        <div className="package-info">
@@ -571,7 +571,7 @@ class AboutUs extends Component {
                                        </div>
                                        <h3>
                                            <i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}/package-details`}>Email Support</Link>
+                                           <Link to={`${process.env.PUBLIC_URL}`}>Email Support</Link>
                                        </h3>
                                        <div className="package-rating">
                                            <i className="bx bxs-star" />

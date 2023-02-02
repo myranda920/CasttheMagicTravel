@@ -188,7 +188,7 @@ class HeaderTwo extends Component {
                                                     <a href="tel:+17632275032">+1 763-227-5032</a>
                                                 </li>
                                                 <li className="sidebar-single-contact"><i className="bx bxs-envelope" />
-                                                    <a href="mailto:info@example.com">info@example.com</a>
+                                                    <a href="mailto:castthemagictravel@gmail.com">castthemagictravel@gmail.com</a>
                                                 </li>
                                             </ul>
                                         </div>

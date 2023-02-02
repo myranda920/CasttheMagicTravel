@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import {Link,NavLink}               from "react-router-dom";
 
 //Import Image
-import logoMain             from "../../assets/images/MockLogo1.png"
-import secondLogo           from "../../assets/images/logo-2.png"
+import logoMain             from "../../assets/images/logo-tran.png"
+import secondLogo           from "../../assets/images/logo-png.png"
 
 class Headers extends Component {
     scrollTop()
@@ -221,10 +221,10 @@ class Headers extends Component {
                                     <div className="sidebar-contact">
                                         <ul>
                                             <li className="sidebar-single-contact"><i className="bx bxs-phone" />
-                                                <Link to={`tel:+17632275032`} >+1 763-227-5032</Link>
+                                                <Link to={`tel:+17632275032`} >+1 760-544-2878</Link>
                                             </li>
                                             <li className="sidebar-single-contact"><i className="bx bxs-envelope" />
-                                                <Link to={`mailto:info@example.com`} >info@example.com</Link>
+                                                <Link to={`mailto:info@example.com`} >castthemagictravel@gmail.com</Link>
                                             </li>
                                         </ul>
                                     </div>
