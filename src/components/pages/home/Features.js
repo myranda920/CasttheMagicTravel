@@ -55,8 +55,8 @@ class Features extends Component {
                    <div className="row">
                        <div className="col-lg-12 col-md-12 col-sm-12">
                            <div className="section-head pb-60">
-                               <h5>Feature Tours</h5>
-                               <h2>See Our Best Popular Destinations</h2>
+                               <h5>Packages Including but not limited to:</h5>
+                               <h2>Disneyland and Walt Disneyworld Packages</h2>
                            </div>
                        </div>
                    </div>
@@ -65,24 +65,22 @@ class Features extends Component {
                            <OwlCarousel className="feature-slider owl-carousel"  {...featuresOptions}>
                                <div className="feature-card">
                                    <div className="feature-img">
-                                       <img src={features1Img} alt="" className="img-fluid" />
+                                       {/* <img src={features1Img} alt="" className="img-fluid" /> */}
                                    </div>
                                    <div className="feature-content">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`} className="title">Group Travel Go To Bea
-                                           Amsterdam</Link>
-                                       <h5><i className="bx bxs-star" /><span> 7K+</span>Rating</h5>
-                                       <strong>$150 <span>$200</span></strong>
+                                       <Link to={`${process.env.PUBLIC_URL}/package-details`} className="title">Resort Accomodations</Link>
+                                       {/* <h5><i className="bx bxs-star" /><span> 7K+</span>Rating</h5>
+                                       <strong>$150 <span>$200</span></strong> */}
                                    </div>
                                </div>
                                <div className="feature-card">
                                    <div className="feature-img">
-                                       <img src={features2Img} alt="" className="img-fluid" />
+                                       {/* <img src={features2Img} alt="" className="img-fluid" /> */}
                                    </div>
                                    <div className="feature-content">
-                                       <Link to={`${process.env.PUBLIC_URL}/package-details`} className="title">Group Travel Go To Bea
-                                           Amsterdam</Link>
-                                       <h5><i className="bx bxs-star" /><span> 7K+</span>Rating</h5>
-                                       <strong>$150 <span>$200</span></strong>
+                                       <Link to={`${process.env.PUBLIC_URL}/package-details`} className="title">Park Tickets</Link>
+                                       {/* <h5><i className="bx bxs-star" /><span> 7K+</span>Rating</h5>
+                                       <strong>$150 <span>$200</span></strong> */}
                                    </div>
                                </div>
                                <div className="feature-card">

@@ -10,14 +10,14 @@ class Faq extends Component {
                     <div className="row">
                         <div className="col-lg-12 col-md-12 col-sm-12">
                             <div className="breadcrumb-wrap">
-                                <h2>FAQ</h2>
-                                <ul className="breadcrumb-links">
+                                <h2>Packages Including but Not Limited To</h2>
+                                {/* <ul className="breadcrumb-links">
                                     <li>
                                         <Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
                                         <i className="bx bx-chevron-right" />
                                     </li>
                                     <li>FAQ</li>
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ class Faq extends Component {
                         <div className="col-lg-7">
                             <div className="faq-wrap">
                                 <div className="accordion-box">
-                                    <h5>General Question</h5>
+                                    <h5>Disneyland and Disneyworld Packages</h5>
                                     <div className="accordion" id="accordionExample">
                                         <div className="accordion-item">
                                             <h2 className="accordion-header" id="headingOne">

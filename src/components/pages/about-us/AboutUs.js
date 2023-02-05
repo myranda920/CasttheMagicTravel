@@ -4,7 +4,8 @@ import AboutWrapper from "./AboutWrapper";
 import MainBanner from '../home/MainBanner';
 import Destinations from '../destinations/Destinations';
 // import GuideWrapper from "./GuideWrapper";
-import Achievement from "./Achievement";
+import Achievement from "../home/Achievement";
+
 // import MainBanner from "../home2/MainBanner";
 //import AboutReview from "./AboutReview";
 // import AboutBlog from "./AboutBlog";
@@ -20,6 +21,7 @@ class AboutUs extends Component {
            <AboutWrapper/>
            {/* <Achievement/> */}
            <Destinations/>
+      
        </>
     );
   }

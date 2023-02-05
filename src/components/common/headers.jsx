@@ -126,7 +126,7 @@ class Headers extends Component {
                                     </div>
                                     <ul>
                                         <li className="has-child-menu">
-                                            <Link to={"#"}>Home</Link>
+                                            <Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
                                             {/* <i className="fl flaticon-plus">+</i> */}
                                             {/* <ul className="sub-menu">
                                                 <li>

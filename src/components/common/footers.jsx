@@ -294,18 +294,11 @@ class Footers extends Component {
                                             </div>
                                         </div>
                                     </div> 
-                                    {/* <div className="col-lg-4 col-md-4">
+                                    <div className="col-lg-4 col-md-4">
                                         <div className="footer-links payment-links">
-                                            <h5 className="widget-title">Forms:</h5>
-                                            <div className="payment-cards">
-                                                <img src={paymentCard2Img} alt="" className="img-fluid" />
-                                                <img src={paymentCard1Img} alt="" className="img-fluid" />
-                                                <img src={paymentCard3Img} alt="" className="img-fluid" />
-                                                <img src={paymentCard4Img} alt="" className="img-fluid" />
-                                                <img src={paymentCard5Img} alt="" className="img-fluid" />
-                                            </div>
+ 
                                         </div>
-                                    </div> */}
+                                    </div>
                                 </div>
                             </div>
                         </div>
