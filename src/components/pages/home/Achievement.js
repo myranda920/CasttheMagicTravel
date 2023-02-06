@@ -25,9 +25,9 @@ class Achievement extends Component {
                    <div className="row">
                        <div className="col-lg-3 col-md-6 col-sm-6 wow fadeInLeft animated" data-wow-duration="1500ms" data-wow-delay="0ms">
                            <div className="achievement-card mt-30">
-                               {/* <div className="achievement-icon">
+                               <div className="achievement-icon">
                                    <i className="flaticon-guide" />
-                               </div> */}
+                               </div>
                                <h5>Resort Accomodations</h5>
                            </div>
                        </div>

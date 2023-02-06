@@ -81,7 +81,7 @@ class AboutUs extends Component {
                            <div className="package-slider-wrap">
                                <img src={destinations1Img} alt="" className="img-fluid" />
                                <div className="pakage-overlay">
-                                   <strong>Disneyland & Walt Disney World Packages</strong>
+                                   <strong>Disneyland & Walt Disney World </strong>
                                </div>
                            </div>
                        </div>
@@ -274,115 +274,8 @@ class AboutUs extends Component {
                            </OwlCarousel>
                        </div>
                    </div>
-                   <div className="row">
-                       <div className="col-lg-9 col-md-9">
-                           <OwlCarousel className="row owl-carousel destinations-2"  {...destinationsOptions}>
-                               <div className="package-card">
-                                   <div className="package-thumb">
-                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
-                                           <img src={destinations16Img} alt="" className="img-fluid" />
-                                       {/* </Link> */}
-                                   </div>
-                                   <div className="package-details">
-                                       <div className="package-info">
-                                           {/* <h5><span>$145</span>/Per Person</h5> */}
-                                       </div>
-                                       <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}`}>Royal Caribbean</Link>
-                                       </h3>
-                                       <div className="package-rating">
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           {/* <strong><span>1.3K+</span> Rating</strong> */}
-                                       </div>
-                                   </div>
-                               </div>
-
-                               <div className="package-card">
-                                   <div className="package-thumb">
-                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
-                                           <img src={destinations17Img} alt="" className="img-fluid" />
-                                       {/* </Link> */}
-                                   </div>
-                                   <div className="package-details">
-                                       <div className="package-info">
-                                           {/* <h5><span>$240</span>/Per Person</h5> */}
-                                       </div>
-                                       <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}`}>Norwegion Cruise Line</Link>
-                                       </h3>
-                                       <div className="package-rating">
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           {/* <strong><span>1.3K+</span> Rating</strong> */}
-                                       </div>
-                                   </div>
-                               </div>
-
-                               <div className="package-card">
-                                   <div className="package-thumb">
-                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
-                                           <img src={destinations9Img} alt="" className="img-fluid" />
-                                       {/* </Link> */}
-                                   </div>
-                                   <div className="package-details">
-                                       <div className="package-info">
-                                           {/* <h5><span>$300</span>/Per Person</h5> */}
-                                       </div>
-                                       <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}`}>Disney Cruise Line</Link>
-                                       </h3>
-                                       <div className="package-rating">
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           {/* <strong><span>1.3K+</span> Rating</strong> */}
-                                       </div>
-                                   </div>
-                               </div>
-
-                               <div className="package-card">
-                                   <div className="package-thumb">
-                                       {/* <Link to={`${process.env.PUBLIC_URL}/package-details`}> */}
-                                           <img src={destinations10Img} alt="" className="img-fluid" />
-                                       {/* </Link> */}
-                                   </div>
-                                   <div className="package-details">
-                                       <div className="package-info">
-                                           {/* <h5><span>$120</span>/Per Person</h5> */}
-                                       </div>
-                                       <h3><i className="flaticon-arrival" />
-                                           <Link to={`${process.env.PUBLIC_URL}`}>Carnival Cruise Line</Link>
-                                       </h3>
-                                       <div className="package-rating">
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           <i className="bx bxs-star" />
-                                           {/* <strong><span>1.3K+</span> Rating</strong> */}
-                                       </div>
-                                   </div>
-                               </div>
-                           </OwlCarousel>
-                       </div>
-                       <div className="col-lg-3 col-md-3">
-                           <div className="package-slider-wrap">
-                               <img src={destinations2Img} alt="" className="img-fluid" />
-                               <div className="pakage-overlay">
-                                   <strong>Cruise Partnerships</strong>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
+                 
+       
                    <div className="row">
                        <div className="col-lg-3 col-md-3">
                            <div className="package-slider-wrap">
